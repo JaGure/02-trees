@@ -1,6 +1,7 @@
 {-
 ---
 fulltitle: "In class exercise: foldr"
+date: September 20, 2021
 ---
 
 In [HigherOrder](../01-intro/HigherOrder.html) we saw a few functions that you could write using the

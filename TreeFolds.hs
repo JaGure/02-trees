@@ -1,6 +1,7 @@
 {-
 ---
-fulltitle: "In class exercise: Tree folds"
+fulltitle: "Extra practice: Tree folds"
+date: September 22, 2021
 ---
 -}
 
